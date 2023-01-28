@@ -1,3 +1,5 @@
+/* you can not import external css in html when running node app */
+
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
 
 * {
@@ -23,7 +25,7 @@ html {
 }
 
 html {
-    background: #eee;
+    background: rgb(110, 67, 67);
 }
 
 .box {
@@ -31,7 +33,7 @@ html {
     height: 60vh;
     border-radius: 0.5rem;
     box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.2);
-    background: #a5bbdd;
+    background: #d95c5c;
     position: relative;
     overflow: hidden;
     transform: translate3d(0, 0, 0);

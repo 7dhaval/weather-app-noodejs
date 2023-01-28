@@ -1,0 +1,14 @@
+Hello All,
+
+Welcome to Node Weather App 
+This app is created with HTML, CSS and NodeJS File 
+so to run this app you have to do following steps:
+
+1) git clone 
+2) npm install
+3) change API KEY ref:https://openweathermap.org/
+4) index.js file to api to change api key 
+5) start server with nodemon
+6) Nodejs not support external css so you have to copy file and paste in to style tags.
+
+:)
